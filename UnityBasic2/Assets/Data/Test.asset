@@ -15,5 +15,15 @@ MonoBehaviour:
   SheetName: Assets/Data/Data.xlsx
   WorksheetName: Test
   dataArray:
-  - id_i: 0
-    name_s: bbno
+  - id_i: 1001
+    name_s: 10101
+  - id_i: 1002
+    name_s: 
+  - id_i: 1003
+    name_s: 
+  - id_i: 1004
+    name_s: 
+  - id_i: 1005
+    name_s: 
+  - id_i: 1006
+    name_s: 

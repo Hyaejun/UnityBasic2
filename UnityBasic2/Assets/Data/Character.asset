@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dbebd2ab5a7917499b6f2098ba056a9, type: 3}
+  m_Name: Character
+  m_EditorClassIdentifier: 
+  SheetName: Assets/Data/Data.xlsx
+  WorksheetName: Character
+  dataArray:
+  - id: 10101
+    name: "\uC544\uB9AC\uC5D8"
+    nametitle: "\uC5D8\uD504"
+    image: ariel idle
+    describe: "\uC544\uB9AC\uC5D8_\uAE30\uBCF8\uD45C\uC815"
+  - id: 10102
+    name: "\uC544\uB9AC\uC5D8"
+    nametitle: "\uC5D8\uD504"
+    image: ariel angry
+    describe: "\uC544\uB9AC\uC5D8_\uD654\uB09C\uD45C\uC815"
+  - id: 10103
+    name: "\uC544\uB9AC\uC5D8"
+    nametitle: "\uC5D8\uD504"
+    image: ariel attack
+    describe: "\uC544\uB9AC\uC5D8_\uACF5\uACA9\uC790\uC138"
+  - id: 10104
+    name: "\uC544\uB9AC\uC5D8"
+    nametitle: "\uC5D8\uD504"
+    image: ariel embarrassing
+    describe: "\uC544\uB9AC\uC5D8_\uBD80\uB044\uB7EC\uC6B4\uD45C\uC815"
+  - id: 10105
+    name: "\uC544\uB9AC\uC5D8"
+    nametitle: "\uC5D8\uD504"
+    image: ariel laugh
+    describe: "\uC544\uB9AC\uC5D8_\uC6C3\uB294\uD45C\uC815"
+  - id: 10106
+    name: "\uC544\uB9AC\uC5D8"
+    nametitle: "\uC5D8\uD504"
+    image: ariel sad
+    describe: "\uC544\uB9AC\uC5D8_\uC2AC\uD508\uD45C\uC815"
+  - id: 10107
+    name: "\uC544\uB9AC\uC5D8"
+    nametitle: "\uC5D8\uD504"
+    image: ariel serious
+    describe: "\uC544\uB9AC\uC5D8_\uC9C4\uC9C0\uD55C\uD45C\uC815"
+  - id: 10108
+    name: "\uC544\uB9AC\uC5D8"
+    nametitle: "\uC5D8\uD504"
+    image: ariel smile
+    describe: "\uC544\uB9AC\uC5D8_\uBBF8\uC18C\uD45C\uC815"
